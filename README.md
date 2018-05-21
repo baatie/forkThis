@@ -1,12 +1,12 @@
 # Project Title
 
-## Forkthis Repo for Practice
+## Baatie's Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### Write your author name here. eg. By Baatie
 
 ### Description
 
-Create a description and fill it in here.
+This is my practice session.
 
 ## Languages used
 
